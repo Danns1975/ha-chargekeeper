@@ -1,0 +1,11 @@
+{
+  "domain": "chargekeeper",
+  "name": "ChargeKeeper",
+  "codeowners": [],
+  "config_flow": true,
+  "documentation": "https://github.com/Danns1975/ha-chargekeeper",
+  "issue_tracker": "https://github.com/Danns1975/ha-chargekeeper/issues",
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "version": "0.1.0"
+}
